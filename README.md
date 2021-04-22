@@ -1,17 +1,29 @@
 # *M.Y.C.C*
-<sup> "*Just dont ask what it stands for*" </sup>
+<sup> "*Just Dont Ask What It Stands For*" </sup>
 ![DISCLAMER:DO NOT VIEW SOURCE CODE](https://github.com/The-Anonymous-Chicken/T.S.W.M.Y.C/blob/main/src/md/F002652C-DAFD-4013-852B-BB79620DDCA1.png)
+## Installation:
+================
+
+`git clone https://github.com/The-Anonymous-Chicken/M.Y.C.C`
+ 
+ `cd M.Y.C.C`
+
+`./src/code/run.sh`
+
+====================
 <details>
 <summary>Have you been having a bad day?</summary>
 <br>
 <details>
 <summary>Do you feel like this day just can't possibly get any worse?</summary>
 <br>
-Well, then this is just the script for you!
+  
+Well, then guess what! This is just the script for you!
+  
   <details>
 <summary> But, How do I Install it?</summary>
 <br>
-Just clone the repository, cd to it, and run ./src/code/run.sh
+Just clone the repository, cd to it, and run `./src/code/run.sh`
     <details>
 <summary>Can I copy and use the code?</summary>
 <br>
