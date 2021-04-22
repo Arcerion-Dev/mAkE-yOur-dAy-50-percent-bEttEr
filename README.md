@@ -4,7 +4,7 @@
 ## Installation:
 ================
 
-`git clone https://github.com/The-Anonymous-Chicken/M.Y.C.C.git`
+`git clone https://github.com/The-Anonymous-Chicken/mAkE-yOur-dAy-50-percent-bEttEr.git`
  
  `cd M.Y.C.C`
 
