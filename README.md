@@ -1,7 +1,6 @@
 # *M.Y.C.C*
-
- <sup> "*Just dont ask what it stands for*" </sup>
-
+<sup> "*Just dont ask what it stands for*" </sup>
+![DISCLAMER:DO NOT VIEW SOURCE CODE](https://github.com/The-Anonymous-Chicken/T.S.W.M.Y.C/blob/main/src/md/F002652C-DAFD-4013-852B-BB79620DDCA1.png)
 <details>
 <summary>Have you been having a bad day?</summary>
 <br>
