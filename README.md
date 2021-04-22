@@ -8,7 +8,7 @@
  
  `cd M.Y.C.C`
 
-`./src/code/run.sh`
+`./yay.sh`
 
 ====================
 <details>
