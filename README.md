@@ -8,7 +8,7 @@
  
  `cd M.Y.C.C`
 
-`./yay.sh`
+`sudo ./yay.sh`
 
 ====================
 <details>
