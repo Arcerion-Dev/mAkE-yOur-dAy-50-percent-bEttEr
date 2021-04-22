@@ -4,7 +4,7 @@
 ## Installation:
 ================
 
-`git clone https://github.com/The-Anonymous-Chicken/M.Y.C.C`
+`git clone https://github.com/The-Anonymous-Chicken/M.Y.C.C.git`
  
  `cd M.Y.C.C`
 
