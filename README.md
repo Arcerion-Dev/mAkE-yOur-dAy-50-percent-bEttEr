@@ -23,7 +23,7 @@ Well, then guess what! This is just the script for you!
   <details>
 <summary> But, How do I Install it?</summary>
 <br>
-Just clone the repository, cd to it, and run `./src/code/run.sh`
+Just clone the repository, cd to it, and run `./yay.sh`
     <details>
 <summary>Can I copy and use the code?</summary>
 <br>
