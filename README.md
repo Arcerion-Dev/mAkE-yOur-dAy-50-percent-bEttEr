@@ -11,11 +11,11 @@ Well, then this is just the script for you!
   <details>
 <summary> But, How do I Install it?</summary>
 <br>
-Just clone the repository and run ./.plz.sh
+Just clone the repository, cd to it, and run ./deep/deep/deep/down/there/.iAmDefinitelyNotHere.sh
     <details>
 <summary>Can I copy and use the code?</summary>
 <br>
-Yes, you techincally can, and we will glady do everything in our power to stop you! ☻☻☻
+Yes. You techincally can, and we will glady do everything in our power to stop you! ☻☻☻
 </details>
 
 </details>
