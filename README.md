@@ -11,7 +11,7 @@ Well, then this is just the script for you!
   <details>
 <summary> But, How do I Install it?</summary>
 <br>
-Just clone the repository, cd to it, and run ./deep/deep/deep/down/there/.iAmDefinitelyNotHere.sh
+Just clone the repository, cd to it, and run ./src/code/run.sh
     <details>
 <summary>Can I copy and use the code?</summary>
 <br>
