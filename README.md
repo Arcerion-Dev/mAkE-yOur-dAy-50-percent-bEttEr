@@ -1,6 +1,11 @@
 # *M.Y.C.C*
 <sup> "*Just Dont Ask What It Stands For*" </sup>
 ![DISCLAMER:DO NOT VIEW SOURCE CODE](https://github.com/The-Anonymous-Chicken/T.S.W.M.Y.C/blob/main/src/md/F002652C-DAFD-4013-852B-BB79620DDCA1.png)
+
+## Dependencies:
+Ncurses:
+(Debian and Ubuntu:`sudo apt-get install libncurses5-dev libncursesw5-dev` /Alpine Linux: `apk add ncurses` /Arch Linux: `pacman -S ncurses`)
+
 ## Installation:
 ================
 
